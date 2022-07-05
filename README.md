@@ -2,8 +2,7 @@
 Code repository for SNARF
 
 
-**SNARF** is a fast and compact filter that provides exact-match filtering,
-range filtering, and approximate range counts. This is the source code for our
+**SNARF** is a fast and compact updatable range filter . This is the source code for our
 [SIGMOD paper](https://dl.acm.org/doi/10.14778/3529337.3529347).
 
 
