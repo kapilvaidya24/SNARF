@@ -12,3 +12,5 @@ A simple example can be found [here](https://github.com/kapilvaidya24/SNARF/blob
 g++ -std=c++17 -O3 -w -fpermissive example.cpp -o example.out
 ./example.out
 ```
+
+Please be carful with using the code for numbers close to integer represenation limit (>2^60). Integer overflow might occur which might result in inaccurate results. 
