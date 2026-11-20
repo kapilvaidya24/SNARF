@@ -1,0 +1,11 @@
+site_name: SNARF_hashkey
+site_description: TechDocs for SNARF_hashkey, a C++ implementation of the SNARF sparse numerical array based range filter.
+nav:
+  - Overview: docs/index.md
+  - Architecture: docs/architecture.md
+  - Repository layout: docs/repository-layout.md
+  - Build and run: docs/build-and-run.md
+  - API and operations: docs/api-and-operations.md
+  - Limitations and risks: docs/limitations-and-risks.md
+plugins:
+  - techdocs-core
